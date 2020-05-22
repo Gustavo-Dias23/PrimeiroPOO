@@ -1,0 +1,13 @@
+D:\Users\gusta\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csprojAssemblyReference.cache
+D:\Users\gusta\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfoInputs.cache
+D:\Users\gusta\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfo.cs
+D:\Users\gusta\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csproj.CoreCompileInputs.cache
+D:\Users\gusta\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.exe
+D:\Users\gusta\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.deps.json
+D:\Users\gusta\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.json
+D:\Users\gusta\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.dev.json
+D:\Users\gusta\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.dll
+D:\Users\gusta\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+D:\Users\gusta\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.dll
+D:\Users\gusta\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+D:\Users\gusta\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.genruntimeconfig.cache
